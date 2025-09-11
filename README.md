@@ -1,22 +1,23 @@
-Hi there, I`m Abu Bakar!
-i am just getting started with programing and github. I am here to learn, build, and grow as a developer.
+Hi there , I'm Abu Bakar  
 
-I`m Currently learning
--Python
--Java
+Frontend Developer | Python Learner**  
 
-Tool I`m Using
--VS Code
--Github
--IntelliJ
+I'm passionate about building simple, clean, and responsive websites**.  
+Currently, I'm expanding my skills by learning **Python** 🚀  
 
-My learning Goals
--Build my first website
--How to use Git & Github effectively
--How to build large projects
+---
+
+Skills
+- Frontend: HTML, CSS, JavaScript (basic)  
+- Currently Learning: Python (for automation & backend development)  
+- Other Interests: Git, GitHub, open-source, problem-solving  
+
+---
 
 Projects
- I`m working on small biginner projects and will share them here as I go!
+- Portfolio Website – My personal portfolio made with HTML, CSS, and JavaScript  
+- Landing Page Clone – A responsive landing page design
+- Python Practice – Small Python scripts while I learn 
 <!---
 AbuBakarSE/AbuBakarSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
