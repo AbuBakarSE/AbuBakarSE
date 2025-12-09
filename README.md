@@ -8,14 +8,14 @@ Currently, I'm expanding my skills by learning **Python**
 ---
 
 Skills
-- Frontend: HTML, CSS, Tailwindcss and JavaScript(basic)  
+- Frontend: HTML, CSS, Tailwindcss, Bootstrap and JavaScript(basic)  
 - Currently Learning: Python (for automation & backend development)  
 - Other Interests: Git, GitHub, open-source, problem-solving  
 
 ---
 
 Projects
-- Portfolio Website – My personal portfolio made with HTML, CSS, and JavaScript  
+- Portfolio Website – My personal portfolio made with HTML, CSS,Tailwindcss and JavaScript  
 - Landing Page Clone – A responsive landing page design
 - Python Practice – Small Python scripts while I learn 
 <!---
