@@ -2,7 +2,7 @@ Hi there , I'm Abu Bakar
 
 Frontend Developer | Python Learner  
 
-I'm passionate about building simple, clean, and responsive websites**.  
+I'm passionate about building simple, clean, and responsive websites.  
 Currently, I'm expanding my skills by learning **Python**   
 
 ---
