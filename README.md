@@ -1,6 +1,6 @@
 Hi there , I'm Abu Bakar  
 
-Frontend Developer & Wordpress Expert | Python Learner  
+Frontend Developer & Wordpress Expert | Webflow Learner  
 
 I'm passionate about building simple, clean, and responsive websites.  
 Currently, I'm expanding my skills by learning **Python**   
