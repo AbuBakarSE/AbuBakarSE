@@ -24,7 +24,7 @@ My goal is to understand how systems and networks work, how vulnerabilities aris
 - **Python Scripts:** Practicing Python through small scripts and automation tasks.
 - **Networking Labs:** Exploring networking concepts, protocols, and how systems communicate.
 - **Cybersecurity Labs:** Practicing security fundamentals through hands-on learning environments.
-- **Frontend Projects:** Building responsive websites using HTML, CSS, JavaScript, and Elementor.
+- **Frontend Projects:** Building responsive websites using HTML, CSS,Tailwind CSS and Elementor.
 
 ---
 
