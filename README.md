@@ -1,24 +1,52 @@
-Hi there , I'm Abu Bakar  
+# Hi there, I'm Abu Bakar 👋
 
-Frontend Developer & Wordpress Expert | Webflow Learner  
+💻 Software Engineering Student | Aspiring Cybersecurity Professional
 
-I'm passionate about building simple, clean, and responsive websites.  
-Currently, I'm expanding my skills by learning **Python**   
+I'm a Software Engineering student passionate about technology, programming, and cybersecurity. I'm currently focusing on learning cybersecurity fundamentals and using **Python for scripting, automation, and security-related tasks**.
 
----
-
-Skills
-- Frontend:Elementor,  HTML, CSS, Tailwindcss, Bootstrap and JavaScript  
-- Currently Learning: Python (for automation & backend development)  
-- Other Interests: Git, GitHub, open-source, problem-solving  
+My goal is to understand how systems and networks work, how vulnerabilities arise, and how to build and protect more secure applications.
 
 ---
 
-Projects
-- Portfolio Website – My personal portfolio made with HTML, CSS,Tailwindcss and JavaScript  
-- Landing Page Clone – A responsive landing page design
-- Python Practice – Small Python scripts while I learn 
-<!---
-AbuBakarSE/AbuBakarSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python (Learning)
+- **Python Focus:** Scripting, Automation, and Problem-Solving
+- **Cybersecurity:** Security Fundamentals, Ethical Hacking (Learning)
+- **Networking:** IP Addresses, Ports, Protocols, DNS, and OSI Model
+- **Frontend Development:** HTML, CSS, Tailwind CSS
+- **Tools:** Git, GitHub, Linux (Learning)
+
+---
+
+## 🚀 Projects & Practice
+
+- **Python Scripts:** Practicing Python through small scripts and automation tasks.
+- **Networking Labs:** Exploring networking concepts, protocols, and how systems communicate.
+- **Cybersecurity Labs:** Practicing security fundamentals through hands-on learning environments.
+- **Frontend Projects:** Building responsive websites using HTML, CSS, JavaScript, and Elementor.
+
+---
+
+## 📚 Currently Learning
+
+- Python for Cybersecurity
+- Networking Fundamentals
+- Linux Command Line
+- Cybersecurity Fundamentals
+- Security Scripting and Automation
+
+---
+
+## 🎯 My Learning Approach
+
+**Learn → Practice → Build → Test → Improve**
+
+I'm documenting my journey, building practical skills, and exploring open-source projects as I grow in cybersecurity.
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@AbuBakarSE](https://github.com/AbuBakarSE)
+
